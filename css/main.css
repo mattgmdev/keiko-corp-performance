@@ -773,6 +773,9 @@ footer .copyright a {
   header .logo {
     margin-right: 0;
   }
+  .hero {
+    background: url("../img/hero-767.webp") no-repeat fixed center center;
+  }
 
   header .burger_icon {
     display: block;
