@@ -39,7 +39,7 @@ footer {
 
 /*		General CSS		*/
 body {
-  background: #20866e;
+  background: #20866e !important;
   padding: 0px;
   margin: 0px;
 }
